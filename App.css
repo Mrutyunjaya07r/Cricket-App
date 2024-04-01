@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(46, 46, 46);
+    color: antiquewhite;
+}
+.photo{
+    height: 70px;
+    width: 100px;
+    background-image: url('C:\holiday\React project\Cricket App\Cricket_App\src\icc.png');
+    background-size: cover;
+}
+.cardog{
+    background-color: rgb(41, 41, 41);
+    color: antiquewhite;
+    border-radius: 0.5rem;
+    border: 2px solid wheat;
+    text-align: center;
+}
+.cardog:hover{
+    border-radius: 0.5rem;
+    border: 2px solid orangered;
+
+}
+th{
+    padding: 40px;
+}
+td{
+    padding: 40px;
+}
